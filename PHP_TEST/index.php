@@ -21,6 +21,7 @@
     echo('<br>');
 
     const MAX = 50;
+    
   ?>
   </body>
 </html>
